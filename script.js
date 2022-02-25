@@ -96,7 +96,7 @@ function drawText() {
   rectMode(CENTER);
   textSize(20);
   fill(255, 255, 255, to);
-  rect(200, 345, 225, 30);
+  rect(200, 345, 225, 30, 10);
   fill(0, 0, 0, to)
   text("Standing With Ukraine", 200, 350)
   pop();
